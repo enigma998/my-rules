@@ -1,3 +1,5 @@
+These rules have been moved to GitHub, because Legendkeeper isn't quite doing it for us (and it isn't mobile-friendly).
+
 # **About Us**
 We are a duo of Game Masters experienced in running text-based roleplays. I know Avrae and other Dice Bots can seem daunting and complicated, but we are both here to help you and get you used to using what it offers.
 # **About Enigma**
