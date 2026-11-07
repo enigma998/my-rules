@@ -8,6 +8,7 @@ I use he/him pronouns.
 # **About Dreams**
 Hi!  I'm Dreams. Myself and Enigma go way back. We have run forum roleplays together, and participated in them. We are best friends, and often seat-fill for each other.
 Dreams uses any pronouns.
+I'm a Cybersecurity student; outside of running/playing in games, I study machine learning/cybersecurity and draw (human-made) artwork.
 
 One of us will likely be participating in the game and teaching players the play by post format and the Avrae VTT.
 # **General Rules**
@@ -20,6 +21,10 @@ One of us will likely be participating in the game and teaching players the play
 - Don't metagame. If you've played the adventure before, do what your character would do and let others who haven't played it take charges.
 - There will be skill overlap between characters, trust your DM to allow every character to shine. Do not bully or gaslight other players into changing their characters.
 - Have fun! If this isn't your cup of tea, let me know. Rather than sticking through something you wouldn't enjoy.
+# Table-Swapping
+- Sometimes a group game isn't for you, or you don't mesh with a group.  Or perhaps you wanted something different.  Let us know; we can set up a game for you, and to your preferences.
+# Generative AI
+- As GMs, we don't use Generative AI for our games.  We don't restrict players from it (unless a game is someone's request and they do not want anyone using it).
 # **Attendance Policies**
 - Play-by-Post games are a subscription basis.  If you go quiet for longer than three days without word, I will inquire to make sure you're okay.
 - Please let us know if you need a break from the game.  We will accommodate -- either by me including side-quests for those present, or us slowing down for the duration.  Or setting you to free while you wait.
